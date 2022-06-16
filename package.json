@@ -1,6 +1,6 @@
 {
   "name": "dynalite-sodaru",
-  "version": "3.2.1",
+  "version": "3.2.1-1",
   "description": "An implementation of Amazon's DynamoDB built on LevelDB",
   "main": "index.js",
   "bin": "cli.js",
