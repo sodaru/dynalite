@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     tags:
-      - "*\\+sodaru"
+      - "**-**"
 jobs:
   publish:
     runs-on: ubuntu-latest

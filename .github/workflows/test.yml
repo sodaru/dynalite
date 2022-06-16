@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - "sodaru"
+    tags-ignore:
+      - "**-**"
 jobs:
   test:
     runs-on: ubuntu-latest
